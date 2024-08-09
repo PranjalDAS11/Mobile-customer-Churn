@@ -1,5 +1,6 @@
 Mobile Churn Rate Analysis
 Project Overview
+
 This project aims to analyze the mobile churn rate by processing and analyzing customer data. The key focus is to identify factors that contribute to customer churn and to implement a model for predicting churn based on various customer attributes. The project includes data preprocessing, feature engineering, and model implementation.
 
 Data Description
